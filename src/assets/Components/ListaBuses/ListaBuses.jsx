@@ -26,6 +26,7 @@ useEffect(() => {
 
     return (
             <div>
+              
                 <h2 className='titulo'>Lista de buses</h2>
       <table className='tabla' border={1} cellPadding={10} cellSpacing={0}>
         <thead>
